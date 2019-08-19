@@ -1,3 +1,8 @@
+# 此repo仅用于膜拜游戏使用qwq
+
+以下内容为原版README
+
+---
 # LMOliver
 
 欢迎来到LMOliver的主页!
